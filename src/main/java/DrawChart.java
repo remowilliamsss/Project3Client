@@ -1,5 +1,5 @@
-package dto;
-
+import dto.MeasurementDTO;
+import dto.MeasurementsResponse;
 import org.knowm.xchart.QuickChart;
 import org.knowm.xchart.SwingWrapper;
 import org.knowm.xchart.XYChart;
